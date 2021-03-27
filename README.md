@@ -9,4 +9,4 @@ Coming soon
 
 
 ## Acknowledgement
-This repository is built upon [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)  
+This repository is built upon [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
