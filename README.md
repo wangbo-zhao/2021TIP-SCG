@@ -1,12 +1,12 @@
 # SCG
 🔥🔥🔥The code for SCG: Saliency and Contour Guided Salient Instance Segmentation🔥🔥🔥
 
-##Usage
+## Usage
 Coming soon
 
-##pretrained model
+## Pretrained model
 Coming soon
 
 
-##Acknowledgement
+## Acknowledgement
 This repository is built upon [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)  
