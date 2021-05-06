@@ -6,8 +6,16 @@
 2.Train. 
 ```
 cd tools
-
+python train_net.py
 ```
+3.Test
+```
+cd tools
+python test_net.py
+```
+4.Eval
+5
+
 ## Dataset
 We adopt the training set of ILSO to train the Mask R-CNN part, and you can download the dataset in pickle format from [Link](https://pan.baidu.com/s/1k75LjyXCKhAAb0NWs-AhhQ)  (57ej). [DUTS](http://saliencydetection.net/duts/) and [PASCAL VOS Context](https://cs.stanford.edu/~roozbeh/pascal-context/) are adopted to train the saliency and contour branch, respectively. You can find the pre-processed data in [PoolNet](https://github.com/backseason/PoolNet).
 
