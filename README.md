@@ -24,7 +24,7 @@ We adopt the training set of ILSO to train the Mask R-CNN part, and you can down
 
 
 ## Pretrained model
-We provide the pretrained model for SCG* in [Google Drive](https://drive.google.com/file/d/1qynfmXlQhiol_1xh4M6a-xtW-szKlsBX/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1BggBtg4GJFNioRy0n5f1vQ)(plsf). Put the pretrained model in ./tools/.
+We provide the pretrained model for SCG* in [Google Drive](https://drive.google.com/file/d/1qynfmXlQhiol_1xh4M6a-xtW-szKlsBX/view?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/1BggBtg4GJFNioRy0n5f1vQ)(plsf). Put the pretrained model in `./tools/`.
 
 ## Acknowledgement
 This repository is built upon [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) and [S4Net](https://github.com/RuochenFan/S4Net).
