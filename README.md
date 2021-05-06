@@ -1,6 +1,7 @@
 # SCG
 🔥🔥🔥The code for SCG: Saliency and Contour Guided Salient Instance Segmentation🔥🔥🔥
 
+
 ## Usage
 1.Build. Follow the installation instructions of [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
 
