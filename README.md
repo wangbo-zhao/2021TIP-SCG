@@ -3,7 +3,11 @@
 
 ## Usage
 1.Build. Follow the installation instructions of [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
+2.Train. 
+```
+cd tools
 
+```
 ## Dataset
 We adopt the training set of ILSO to train the Mask R-CNN part, and you can download the dataset in pickle format from [Link](https://pan.baidu.com/s/1k75LjyXCKhAAb0NWs-AhhQ)  (57ej). [DUTS](http://saliencydetection.net/duts/) and [PASCAL VOS Context](https://cs.stanford.edu/~roozbeh/pascal-context/) are adopted to train the saliency and contour branch, respectively. You can find the pre-processed data in [PoolNet](https://github.com/backseason/PoolNet).
 
