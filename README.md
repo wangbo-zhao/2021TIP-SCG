@@ -5,7 +5,7 @@
 ## Usage
 1.Build. Follow the installation instructions of [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
 
-2.Train. 
+2.Train. The whole network, the saliency branch, and the contour branch will be iteratively trained.
 ```
 cd tools
 python train_net.py
