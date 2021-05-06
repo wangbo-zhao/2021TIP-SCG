@@ -28,3 +28,6 @@ We provide the pretrained model for SCG* in [Google Drive](https://drive.google.
 
 ## Acknowledgement
 This repository is built upon [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) and [S4Net](https://github.com/RuochenFan/S4Net).
+
+## Contact
+wangbo.zhao96@gmail.com
