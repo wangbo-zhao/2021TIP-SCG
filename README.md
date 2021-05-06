@@ -10,7 +10,7 @@
 cd tools
 python train_net.py
 ```
-3.Test and Eval. We adopt the same code as [S4Net](https://github.com/RuochenFan/S4Net).
+3.Test and Eval. We adopt the same evaluation code as [S4Net](https://github.com/RuochenFan/S4Net).
 ```
 cd tools
 python test_net.py
