@@ -1,6 +1,8 @@
 # SCG
 🔥🔥🔥The code for SCG: Saliency and Contour Guided Salient Instance Segmentation🔥🔥🔥
 
+## TODO
+As it is suggested in [RDPNet](https://github.com/yuhuan-wu/RDPNet), we plan to use official cocoapi to evaluate the performance, for the convenience of future work.
 
 ## Usage
 1.Build. Follow the installation instructions of [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark).
@@ -31,3 +33,6 @@ This repository is built upon [maskrcnn-benchmark](https://github.com/facebookre
 
 ## Contact
 wangbo.zhao96@gmail.com
+
+
+
