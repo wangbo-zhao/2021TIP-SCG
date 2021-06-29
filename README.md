@@ -1,4 +1,3 @@
-https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 # SCG
 🔥🔥🔥The code for SCG: Saliency and Contour Guided Salient Instance Segmentation🔥🔥🔥
 
