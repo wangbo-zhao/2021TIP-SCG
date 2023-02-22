@@ -10,7 +10,7 @@
 2.Train. The whole network, the saliency branch, and the contour branch will be iteratively trained.
 ```
 cd tools
-python train_net.py
+python train_net.py --config-file configs/e2e_mask_rcnn_R_50_FPN_1x.yaml
 ```
 3.Test and Eval. We adopt the same evaluation code as [S4Net](https://github.com/RuochenFan/S4Net).
 ```
